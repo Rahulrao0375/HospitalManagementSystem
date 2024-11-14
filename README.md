@@ -5,9 +5,13 @@ This project is a **Hospital Management System** built using the **MERN Stack** 
 
 ## Frontend-
 ![Screenshot 2024-08-04 144944](https://github.com/user-attachments/assets/47d317c9-f769-4b68-90b5-4e6043d37b77)
+
 ![Screenshot 2024-08-04 145216](https://github.com/user-attachments/assets/dfffcc0f-3b35-42ff-ae27-3c04f0df0b9d)
+
 ![Screenshot 2024-08-04 145509](https://github.com/user-attachments/assets/8ad4d7d7-acb9-4a9b-a956-6413344b3592)
+
 ![Screenshot 2024-08-04 145719](https://github.com/user-attachments/assets/06eeed8b-aa6a-4e23-a011-ee8c29a27b76)
+
 ![Screenshot 2024-08-04 150033](https://github.com/user-attachments/assets/bbef74ed-1130-481b-bc13-e53fa4eab15c)
 
 
@@ -15,10 +19,15 @@ This project is a **Hospital Management System** built using the **MERN Stack** 
 
 
 ## Admin DashBoard-
-<img width="776" alt="image" src="https://github.com/user-attachments/assets/85a7b503-a3e7-4a94-9fea-460ca0916058">
+
+![Screenshot 2024-08-03 233451](https://github.com/user-attachments/assets/ba3e7e59-71ce-44ff-8d1c-2df5f4c22f1e)
+
 ![Screenshot 2024-08-03 233539](https://github.com/user-attachments/assets/da31e52e-1e9c-4b50-8e8d-fe02a3c4d8fa)
+
 ![Screenshot 2024-08-03 233641](https://github.com/user-attachments/assets/dbffc285-8e42-43ec-8021-a4d6a0664847)
+
 ![Screenshot 2024-08-03 233701](https://github.com/user-attachments/assets/0fd0dc42-7299-40e1-8af7-b7a64c404af8)
+
 ![Screenshot 2024-08-03 233714](https://github.com/user-attachments/assets/2446e4f0-f800-492f-8844-55449de4b3fb)
 
 
