@@ -1,9 +1,10 @@
-<img width="776" alt="image" src="https://github.com/user-attachments/assets/4374dfb3-1ba4-4782-bb03-5012dc5cd688">![Screenshot 2024-08-03 233451](https://github.com/user-attachments/assets/903f9872-52cc-4ab5-95c2-c1b12b008b1f)# Hospital Management System
+
 
 This project is a **Hospital Management System** built using the **MERN Stack** (MongoDB, Express, React, Node.js). It provides a complete solution for managing hospital activities, including patient registration, appointment booking, and administrative control.
 
 
 ## Frontend-
+
 ![Screenshot 2024-08-04 144944](https://github.com/user-attachments/assets/47d317c9-f769-4b68-90b5-4e6043d37b77)
 
 ![Screenshot 2024-08-04 145216](https://github.com/user-attachments/assets/dfffcc0f-3b35-42ff-ae27-3c04f0df0b9d)
