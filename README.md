@@ -1,4 +1,6 @@
 
+# Hospital Management System--
+
 
 This project is a **Hospital Management System** built using the **MERN Stack** (MongoDB, Express, React, Node.js). It provides a complete solution for managing hospital activities, including patient registration, appointment booking, and administrative control.
 
@@ -88,4 +90,4 @@ This project is licensed under the MIT License.
 
 git push origin main
 
--------------------------------------------------------///////////////////////////////////////////////////////////////////------------------------------------------------------------------------------------------------------
+-------------------------------------------------------///////////////////////////////////////////////////////////////////-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
